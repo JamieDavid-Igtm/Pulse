@@ -1,0 +1,11 @@
+{
+  "network": "testnet",
+  "deployed_at": "2026-09-26T09:40:09.584065228+00:00",
+  "contracts": {
+    "pulse": {
+      "contract_id": "ST7B1XF8HXX8RDZMEVTD40A0YDYM2BY8490RDDM5.pulse",
+      "tx_id": "0x939d1d23f0b8f0d6bedc2e20b5bd22f29b12342c8c07edad3e00c366fc3098cd",
+      "block_height": 0
+    }
+  }
+}
